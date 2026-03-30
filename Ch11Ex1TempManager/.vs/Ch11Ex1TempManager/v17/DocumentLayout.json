@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thinh\\source\\repos\\IT3047\\Ch11Ex1TempManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8C4F7E-F05D-405E-9D0B-2C8D4B0C6517}|TempManager\\TempManager.csproj|c:\\users\\thinh\\source\\repos\\it3047\\ch11ex1tempmanager\\tempmanager\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B8C4F7E-F05D-405E-9D0B-2C8D4B0C6517}|TempManager\\TempManager.csproj|solutionrelative:tempmanager\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8C4F7E-F05D-405E-9D0B-2C8D4B0C6517}|TempManager\\TempManager.csproj|c:\\users\\thinh\\source\\repos\\it3047\\ch11ex1tempmanager\\tempmanager\\views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B8C4F7E-F05D-405E-9D0B-2C8D4B0C6517}|TempManager\\TempManager.csproj|solutionrelative:tempmanager\\views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8C4F7E-F05D-405E-9D0B-2C8D4B0C6517}|TempManager\\TempManager.csproj|c:\\users\\thinh\\source\\repos\\it3047\\ch11ex1tempmanager\\tempmanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8C4F7E-F05D-405E-9D0B-2C8D4B0C6517}|TempManager\\TempManager.csproj|solutionrelative:tempmanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8C4F7E-F05D-405E-9D0B-2C8D4B0C6517}|TempManager\\TempManager.csproj|c:\\users\\thinh\\source\\repos\\it3047\\ch11ex1tempmanager\\tempmanager\\controllers\\validationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8C4F7E-F05D-405E-9D0B-2C8D4B0C6517}|TempManager\\TempManager.csproj|solutionrelative:tempmanager\\controllers\\validationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8C4F7E-F05D-405E-9D0B-2C8D4B0C6517}|TempManager\\TempManager.csproj|c:\\users\\thinh\\source\\repos\\it3047\\ch11ex1tempmanager\\tempmanager\\models\\temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8C4F7E-F05D-405E-9D0B-2C8D4B0C6517}|TempManager\\TempManager.csproj|solutionrelative:tempmanager\\models\\temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8C4F7E-F05D-405E-9D0B-2C8D4B0C6517}|TempManager\\TempManager.csproj|c:\\users\\thinh\\source\\repos\\it3047\\ch11ex1tempmanager\\tempmanager\\tempmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B8C4F7E-F05D-405E-9D0B-2C8D4B0C6517}|TempManager\\TempManager.csproj|solutionrelative:tempmanager\\tempmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thinh\\source\\repos\\IT3047\\Ch11Ex1TempManager\\TempManager\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TempManager\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thinh\\source\\repos\\IT3047\\Ch11Ex1TempManager\\TempManager\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TempManager\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T16:13:29.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValidationController.cs",
+              "DocumentMoniker": "C:\\Users\\thinh\\source\\repos\\IT3047\\Ch11Ex1TempManager\\TempManager\\Controllers\\ValidationController.cs",
+              "RelativeDocumentMoniker": "TempManager\\Controllers\\ValidationController.cs",
+              "ToolTip": "C:\\Users\\thinh\\source\\repos\\IT3047\\Ch11Ex1TempManager\\TempManager\\Controllers\\ValidationController.cs",
+              "RelativeToolTip": "TempManager\\Controllers\\ValidationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T15:18:05.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\thinh\\source\\repos\\IT3047\\Ch11Ex1TempManager\\TempManager\\Views\\Home\\Add.cshtml",
+              "RelativeDocumentMoniker": "TempManager\\Views\\Home\\Add.cshtml",
+              "ToolTip": "C:\\Users\\thinh\\source\\repos\\IT3047\\Ch11Ex1TempManager\\TempManager\\Views\\Home\\Add.cshtml",
+              "RelativeToolTip": "TempManager\\Views\\Home\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T15:01:50.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\thinh\\source\\repos\\IT3047\\Ch11Ex1TempManager\\TempManager\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TempManager\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\thinh\\source\\repos\\IT3047\\Ch11Ex1TempManager\\TempManager\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TempManager\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T14:55:35.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Temp.cs",
+              "DocumentMoniker": "C:\\Users\\thinh\\source\\repos\\IT3047\\Ch11Ex1TempManager\\TempManager\\Models\\Temp.cs",
+              "RelativeDocumentMoniker": "TempManager\\Models\\Temp.cs",
+              "ToolTip": "C:\\Users\\thinh\\source\\repos\\IT3047\\Ch11Ex1TempManager\\TempManager\\Models\\Temp.cs",
+              "RelativeToolTip": "TempManager\\Models\\Temp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T14:46:43.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TempManager.csproj",
+              "DocumentMoniker": "C:\\Users\\thinh\\source\\repos\\IT3047\\Ch11Ex1TempManager\\TempManager\\TempManager.csproj",
+              "RelativeDocumentMoniker": "TempManager\\TempManager.csproj",
+              "ToolTip": "C:\\Users\\thinh\\source\\repos\\IT3047\\Ch11Ex1TempManager\\TempManager\\TempManager.csproj",
+              "RelativeToolTip": "TempManager\\TempManager.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-16T15:16:53.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 57,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
